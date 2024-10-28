@@ -22,3 +22,18 @@ Inisialisasi variabel max_number dengan nilai 0. Variabel ini akan digunakan unt
 while True
 ```
 
+Memulai sebuah loop tak terbatas (infinite loop). Loop ini akan terus berjalan hingga ada kondisi yang menghentikannya.
+
+```python
+number = int(input("Masukkan bilangan (input 0 untuk berhenti): ")):
+```
+
+Meminta pengguna untuk memasukkan sebuah bilangan. Bilangan yang dimasukkan akan disimpan dalam variabel number
+
+```python
+if number == 0::
+```
+
+ Mengecek apakah bilangan yang dimasukkan adalah 0. Jika ya, maka break Keluar dari loop while. Ini berarti program akan berhenti ketika pengguna memasukkan 0.
+
+

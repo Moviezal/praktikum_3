@@ -31,9 +31,17 @@ number = int(input("Masukkan bilangan (input 0 untuk berhenti): ")):
 Meminta pengguna untuk memasukkan sebuah bilangan. Bilangan yang dimasukkan akan disimpan dalam variabel number
 
 ```python
+
+
+```python
 if number == 0::
 ```
 
- Mengecek apakah bilangan yang dimasukkan adalah 0. Jika ya, maka break Keluar dari loop while. Ini berarti program akan berhenti ketika pengguna memasukkan 0.
+Mengecek apakah bilangan yang dimasukkan adalah 0. Jika ya, maka break Keluar dari loop while. Ini berarti program akan berhenti ketika pengguna memasukkan 0.
 
+```python
+if number > max_number::
+```
+
+Mengecek apakah bilangan yang dimasukkan lebih besar dari nilai max_number saat ini. Jika ya, maka max_number = number Nilai max_number diperbarui menjadi nilai number yang baru. Ini artinya, bilangan yang baru saja dimasukkan menjadi bilangan terbesar sejauh ini.
 

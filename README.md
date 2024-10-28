@@ -43,6 +43,7 @@ if number > max_number::
 Mengecek apakah bilangan yang dimasukkan lebih besar dari nilai max_number saat ini. Jika ya, maka max_number = number Nilai max_number diperbarui menjadi nilai number yang baru. Ini artinya, bilangan yang baru saja dimasukkan menjadi bilangan terbesar sejauh ini.
 
 #kode flowchart 
+
 max_number = 0
 
 while True:

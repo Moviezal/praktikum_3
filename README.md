@@ -41,19 +41,3 @@ if number > max_number::
 ```
 
 Mengecek apakah bilangan yang dimasukkan lebih besar dari nilai max_number saat ini. Jika ya, maka max_number = number Nilai max_number diperbarui menjadi nilai number yang baru. Ini artinya, bilangan yang baru saja dimasukkan menjadi bilangan terbesar sejauh ini.
-
-#kode flowchart 
-
-max_number = 0
-
-while True:
-  x = int(input("Masukkan angka (atau 0 untuk berhenti): "))
-
-  if x == 0:
-    break
-
-  if x > max_number:
-    max_number = x
-
-print("Angka terbesar adalah:", max_number)
-

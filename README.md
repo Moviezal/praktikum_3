@@ -8,7 +8,7 @@ NIM : 312410501
 
 Mata Kuliah : Bahasa Pemograman
 
-# diagram flowchart
+# flowchart
 
 ![foto](https://github.com/Moviezal/Praktikum/blob/13c00a3787206e45525354dc20969ca7768f469f/praktikum%203.png)
 

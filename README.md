@@ -16,6 +16,8 @@ Mata Kuliah : Bahasa Pemograman
 
 ![foto](https://github.com/Moviezal/Praktikum/blob/e0dacea467ca19a47e4108582ed970ce2691b9b2/33449603-2379-40dc-ac8b-0228933cdb0e.jpg)
 
+# penjelasan Kode program
+
 ```python
  max_number = int(0):
 ```
@@ -50,4 +52,4 @@ Mengecek apakah bilangan yang dimasukkan lebih besar dari nilai max_number saat 
 
 ![foto](https://github.com/Moviezal/Praktikum/blob/4c3ddcdccc843783c3b85445d2f91121e93295c0/ss2.jpeg)
 
-# penjelasan Kode program
+

@@ -41,3 +41,7 @@ if number > max_number::
 ```
 
 Mengecek apakah bilangan yang dimasukkan lebih besar dari nilai max_number saat ini. Jika ya, maka max_number = number Nilai max_number diperbarui menjadi nilai number yang baru. Ini artinya, bilangan yang baru saja dimasukkan menjadi bilangan terbesar sejauh ini.
+
+# Hasil Kode
+
+![foto](https://github.com/Moviezal/Praktikum/blob/4c3ddcdccc843783c3b85445d2f91121e93295c0/ss2.jpeg)

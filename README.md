@@ -49,3 +49,5 @@ Mengecek apakah bilangan yang dimasukkan lebih besar dari nilai max_number saat 
 # Hasil Kode
 
 ![foto](https://github.com/Moviezal/Praktikum/blob/4c3ddcdccc843783c3b85445d2f91121e93295c0/ss2.jpeg)
+
+# penjelasan Kode program
